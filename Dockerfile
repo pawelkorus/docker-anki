@@ -1,4 +1,4 @@
-FROM pawelkorus/base-gui-app
+FROM pkorus/base-gui-app:debian-9
 
 ARG ANKI_VERSION=2.1.43
 
